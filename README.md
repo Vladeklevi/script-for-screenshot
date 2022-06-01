@@ -1,2 +1,2 @@
 # script-for-screenshot
-the program automatically takes a screenshot of your desktop.
+this program automatically takes a screenshot on laptops and saves it in your folder
